@@ -1,2 +1,2 @@
-# Information_Centre
+# Information Centre
 Sample Java application for POCs
