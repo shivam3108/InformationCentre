@@ -1,4 +1,2 @@
 # Information_Centre
-This repository has Java application for demo
-
-sdfdgdfdfgdf
+Sample Java application for POCs
